@@ -60,53 +60,12 @@ where information is stored. The purpose of a DFD is to show the scope and bound
 system as a whole. It may be used as a communications tool between a systems analyst and any
 person who plays a part in the system that acts as the starting point for redesigning a system.
 
-DATA FLOW DIAGRAM Of Flipcart:
-
-                  +----------------------------------------+
-                  |             External Entities          |
-                  |               (Users)                  |
-                  +----------------------------------------+
-                                 |
-                                 |
-                    +----------------------------+
-                    |        User Interface      |
-                    +----------------------------+
-                                 |
-               +-----------------+------------------+
-               |                 |                  |
-    +------------------+   +------------------+   +------------------+
-    | Product Search   |   |   Shopping Cart  |   |   User Account   |
-    |    & Browse      |   |     Management   |   |    Management    |
-    +------------------+   +------------------+   +------------------+
-               |                 |                  |
-               +-------+---------+---------+--------+
-                       |                   |
-                       |                   |
-            +----------v-----+   +-------v--------+
-            |    Order       |    |    Payment     |
-            |   Management   |    |   Processing   |
-            +----------------+    +----------------+
-
+        
 
 5)What is Flow chart? Create a flowchart to make addition of two numbers?
 
-A)A flowchart is a graphical representation of a process, showing the steps or activities involved and the sequence in which they occur. It typically uses standardized symbols to represent different actions, decisions, inputs, outputs, and other elements within the process. Flowcharts are widely used in various fields such as software development, engineering, business management, and education to visually illustrate complex processes, aid in understanding, and facilitate communication among stakeholders.
-
-
-FLOWCHART to make addition of two numbers:
-
-
-                                                                    |Start|
-                                                                       |
-                                                             |Input first number (A)|
-                                                                       |
-                                                            |Input second number (B)|
-                                                                       |
-                                                                 |Add A and B|
-                                                                       |
-                                                              |Output the result|
-                                                                       |
-                                                                     |End|
+A)A flowchart is a graphical representation of a process, showing the steps or activities involved and the sequence in which they occur. It typically uses standardized symbols to represent different actions, decisions, inputs, outputs, and other elements within the process. Flowcharts are widely used in various fields such as software development, engineering, business management, and education to visually illustrate complex processes, aid in understanding.
+                                                       
 
 6)What is use case diagram? Create a use-case on bill payment on paytm?
 
